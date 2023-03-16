@@ -1,0 +1,15 @@
+D:\dotnetapps\AdeolaConsoleApp\bin\Debug\net6.0\AdeolaConsoleApp.exe
+D:\dotnetapps\AdeolaConsoleApp\bin\Debug\net6.0\AdeolaConsoleApp.deps.json
+D:\dotnetapps\AdeolaConsoleApp\bin\Debug\net6.0\AdeolaConsoleApp.runtimeconfig.json
+D:\dotnetapps\AdeolaConsoleApp\bin\Debug\net6.0\AdeolaConsoleApp.dll
+D:\dotnetapps\AdeolaConsoleApp\bin\Debug\net6.0\AdeolaConsoleApp.pdb
+D:\dotnetapps\AdeolaConsoleApp\obj\Debug\net6.0\AdeolaConsoleApp.csproj.AssemblyReference.cache
+D:\dotnetapps\AdeolaConsoleApp\obj\Debug\net6.0\AdeolaConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetapps\AdeolaConsoleApp\obj\Debug\net6.0\AdeolaConsoleApp.AssemblyInfoInputs.cache
+D:\dotnetapps\AdeolaConsoleApp\obj\Debug\net6.0\AdeolaConsoleApp.AssemblyInfo.cs
+D:\dotnetapps\AdeolaConsoleApp\obj\Debug\net6.0\AdeolaConsoleApp.csproj.CoreCompileInputs.cache
+D:\dotnetapps\AdeolaConsoleApp\obj\Debug\net6.0\AdeolaConsoleApp.dll
+D:\dotnetapps\AdeolaConsoleApp\obj\Debug\net6.0\refint\AdeolaConsoleApp.dll
+D:\dotnetapps\AdeolaConsoleApp\obj\Debug\net6.0\AdeolaConsoleApp.pdb
+D:\dotnetapps\AdeolaConsoleApp\obj\Debug\net6.0\AdeolaConsoleApp.genruntimeconfig.cache
+D:\dotnetapps\AdeolaConsoleApp\obj\Debug\net6.0\ref\AdeolaConsoleApp.dll
