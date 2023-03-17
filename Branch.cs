@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AdeolaConsoleApp
 {
-    internal class Branch
+    public class Branch
     {
         public List<Branch> branches;
 
@@ -17,7 +17,10 @@ namespace AdeolaConsoleApp
         }
     }
 
+   
+
 }
+// Example usage:
 var root = new Branch();
 var child1 = new Branch();
 var child2 = new Branch();
